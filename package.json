@@ -1,0 +1,27 @@
+{
+  "name": "backend-zero",
+  "version": "1.0.0",
+  "description": "Vanh hoc backend zero",
+  "keywords": [
+    "nodejs"
+  ],
+  "homepage": "https://github.com/nguyenvietanhit19/Backend-NodeJS-zero#readme",
+  "bugs": {
+    "url": "https://github.com/nguyenvietanhit19/Backend-NodeJS-zero/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenvietanhit19/Backend-NodeJS-zero.git"
+  },
+  "license": "ISC",
+  "author": "Nguyen Viet Anh",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "5.2.1"
+  }
+}
